@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "EvolutionStuff": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DbConnectionString": "Data Source=localhost,1433;Initial Catalog=database;User ID=mainUser;Password=qwerty12345678;TrustServerCertificate=True;",
+        "baseUri": "https://jsonplaceholder.typicode.com"
+      },
+      "applicationUrl": "https://localhost:5001/",
+      "sqlDebugging": true,
+      "nativeDebugging": true
+    }
+  }
+}

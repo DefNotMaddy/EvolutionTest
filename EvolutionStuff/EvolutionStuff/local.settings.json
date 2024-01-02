@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "MyCustomSetting": "SomeValue",
+    "BaseUri": "https://jsonplaceholder.typicode.com"
+  },
+  "ConnectionStrings": {
+    "DbConnectionString": "Server=MDMN-MAIN;Database=database;User Id=mainUser;Password=qwerty12345678;TrustServerCertificate=true;"
+  }
+}
